@@ -13,6 +13,3 @@ associated with the (10) production functions, and the error per point. This fun
 nonlinear regression available in Python. Some date fields are in different format with an extra comma. Write a short script to clean this up. 
 There's no need to send us the cleaning script or the cleaned csv file.  
 
-
-3. In the summary file, in addition to providing the plots, compare the slopes at u=0 in Problem 1, describe how close they are to each other, and to the slope computed 
-in problem 2. Provide the total error per point.
